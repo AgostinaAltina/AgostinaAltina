@@ -1,6 +1,7 @@
 👋 Hi, I am Agostina Altina, Data Analysis trainee, constantly studying and expanding my knowledge in the Data field. 
-   I am looking for my firsts job opportunities to gain experience and to challenge myself to improve.
    -
+   I am looking for my firsts job opportunities to gain experience and to challenge myself to improve.
+  
    
 👀 I’m interested in finding patterns and discoveries that help decision-making. I am passionate about research and analysis, therefore I got caught up in the Data world.
     I believe that Data is history that shows us information as papers in the past and through Data Analytics we can find the most valuable insights 
