@@ -1,4 +1,4 @@
- ##👋 **Hi, Welcome!**
+ 👋 ##**Hi, Welcome!**
    
   
    I am Agostina Altina, Data Analyst | Data Scientist, constantly studying and expanding my knowledge in the Data field. 
