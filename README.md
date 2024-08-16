@@ -7,8 +7,7 @@
    and even use this information to anticipate decisions for the future. 
     
    I have intermediate to advanced level of proficiency with Python, SQL, Excel, Power BI as well as Microsoft ofice package and Google tools.
-   I have excellent communication skills making it possible to achieve an effective dynamic transposition to ensure that information is clear and understandable. I am a very proactive, analytical and dedicated in  
-   what I do.
+   I have excellent communication skills making it possible to achieve an effective dynamic transposition to ensure that information is clear and understandable. I am a very proactive, analytical and dedicated in what I do.
 
 
 <!---
