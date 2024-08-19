@@ -2,6 +2,7 @@
 <h3 align="center">Data Analysis |  Data Sciense </h3>
 <p align="center">
 
+
 <h2> About Me 👩 </h2>
 <span style="color:#2a2a2a;">I am constantly studying and expanding my knowledge in the Data field. I’m interested in finding patterns and discoveries that help decision-making. I am passionate about research and analysis, therefore I got caught up in the Data world. I believe that Data is history that shows us information as papers in the past and through Data Analytics we can find the most valuable insights and even use this information to anticipate decisions for the future.
 
@@ -9,8 +10,17 @@
 
 I have intermediate to advanced level of proficiency with *Python*, *SQL*, *Excel*, *Power BI* as well as *Microsoft Office* package and *Google tools*. I have excellent communication skills making it possible to achieve an effective dynamic transposition to ensure that information is clear and understandable. I am a very proactive, analytical and dedicated in what I do.</span>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 	![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)	![Pandas](https://img.shields.io/badge/Pandas-4A154B?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-%23ED8B00.svg?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 	![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="40"/>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="50" height="55"/>
+<a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="55"/>
+<a href="https://scikit-learn.org/stable" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="55" height="55"/>
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="Power Bi" width="40" height="40"/>
+<a href="https://www.microsoft.com/es-ar/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Microsoft Excel" width="40" height="40"/>
+<a href="https://www.microsoft.com/es-ar/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Symbol.png" alt="Microsoft Word" width="55" height="40"/>
+<a href="https://www.microsoft.com/es-ar/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/742/145/png-transparent-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text-rectangle-thumbnail.png" alt="Microsoft Power Point" width="40" height="40"/>
+<a href="https://workspace.google.com/intl/es-419_ar/products/sheets/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/95/307/png-clipart-google-docs-g-suite-spreadsheet-google-sheets-google-angle-rectangle-thumbnail.png" alt="Google Sheets" width="40" height="40"/>
 
 <!---
 AgosAl0/AgosAl0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
