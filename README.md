@@ -20,7 +20,13 @@ I have intermediate to advanced level of proficiency with *Python*, *SQL*, *Exce
 <a href="https://www.microsoft.com/es-ar/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Microsoft Excel" width="40" height="40"/>
 <a href="https://www.microsoft.com/es-ar/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Symbol.png" alt="Microsoft Word" width="55" height="40"/>
 <a href="https://www.microsoft.com/es-ar/microsoft-365/powerpoint" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/742/145/png-transparent-powerpoint-logo-microsoft-powerpoint-computer-icons-ppt-presentation-microsoft-powerpoint-network-icon-angle-text-rectangle-thumbnail.png" alt="Microsoft Power Point" width="40" height="40"/>
-<a href="https://workspace.google.com/intl/es-419_ar/products/sheets/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/95/307/png-clipart-google-docs-g-suite-spreadsheet-google-sheets-google-angle-rectangle-thumbnail.png" alt="Google Sheets" width="40" height="40"/>
+<a href="https://workspace.google.com/intl/es-419_ar/products/sheets" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/95/307/png-clipart-google-docs-g-suite-spreadsheet-google-sheets-google-angle-rectangle-thumbnail.png" alt="Google Sheets" width="40" height="40"/>
+<a href="https://docs.google.com/document/u/0" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/964/879/png-clipart-google-docs-google-sheets-google-slides-computer-icons-spreadsheet-google-template-blue.png" alt="Google Docs" width="40" height="40"/>
+<a href="https://chatgpt.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/33/d5/cb/33d5cbb35f83f09537b33fe52b51ba30.jpg" alt="ChatGPT" width="50" height="40"/>
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/>
+
+
+
 
 <!---
 AgosAl0/AgosAl0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
