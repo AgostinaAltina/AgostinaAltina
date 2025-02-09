@@ -6,9 +6,15 @@
 <h2> About Me 👩 </h2>
 <span style="color:#2a2a2a;">I am constantly studying and expanding my knowledge in the Data field. I’m interested in finding patterns and discoveries that help decision-making. I am passionate about research and analysis, therefore I got caught up in the Data world. I believe that Data is history that shows us information as papers in the past and through Data Analytics we can find the most valuable insights and even use this information to anticipate decisions for the future.
 
+<h2> Sobre mí 👩 </h2>
+<span style="color:#2a2a2a;">Estoy constantemente estudiando y ampliando mis conocimientos en el campo de los datos. Me interesa encontrar patrones y descubrimientos que ayuden a la toma de decisiones. Me apasiona la investigación y el análisis, por lo que me cautivó el mundo de los Datos. Creo que los Datos son historia que nos muestra información como papeles en el pasado y a través del análisis de los mismos podemos encontrar los más valiosos hallazgos e incluso utilizar esta información para anticipar decisiones para el futuro.
+
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 I have intermediate to advanced level of proficiency with *Python*, *SQL*, *Excel*, *Power BI* as well as *Microsoft Office* package and *Google tools*. I have excellent communication skills making it possible to achieve an effective dynamic transposition to ensure that information is clear and understandable. I am a very proactive, analytical and dedicated in what I do.</span>
+
+Tengo un nivel intermedio a avanzado de competencia en *Python*, *SQL*, *Excel*, *Power BI*, así como en *Microsoft Office* y *herramientas de Google*. Tengo excelentes habilidades de comunicación, lo que permite una transposición dinámica eficaz para garantizar que la información sea clara y comprensible. Soy muy proactiva, analítica y dedicada en lo que hago.</span>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
